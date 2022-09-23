@@ -1,32 +1,32 @@
 ## Bot Commands
-This commands will be visible to all your Bot users as command menu, to help them discovering your Bot's functionality.<br>
+Estos comandos serán visibles para todos los usuarios de su Bot como menú de comandos, para ayudarlos a descubrir la funcionalidad de su Bot.<br>
 ### Add following commands in BotFather:
 ```
-start - Start the Bot
-sa - Upload the Serivce Account zip file to use the Bot
-folders - Select the Shared Drives where you wish to save your files and folders
-help - Get Information about the Bot
-ban - Ban a Telegram User ID from using the Bot
-unban - Reallow a Telegram User ID from using the Bot that was earlier banned
-vip - Add a Telegram User ID to the VIP Access List
-unvip - Remove a Telegram User ID to the VIP Access List
-id - Get your Telegram User  ID
-contact - Get the contacts details of the owner of the Bot
+start - Iniciar el robot
+sa - Cargue el archivo zip de la cuenta de servicio para usar el bot
+folders - Seleccione las unidades compartidas donde desea guardar sus archivos y carpetas
+help - Obtener información sobre el bot
+ban - Prohibir que un ID de usuario de Telegram use el bot
+unban - Vuelva a permitir que una ID de usuario de Telegram use el bot que se prohibió anteriormente
+vip - Agregue una identificación de usuario de Telegram a la lista de acceso VIP
+unvip - Eliminar una identificación de usuario de Telegram a la lista de acceso VIP
+id - Obtenga su identificación de usuario de Telegram
+contact - Obtenga los detalles de contacto del propietario del Bot
 ```
 <b>User Commands:</b>
 ```
-start - Start the Bot
-sa - Upload the Serivce Account zip file to use the Bot
-folders - Select the Shared Drives where you wish to save your files and folders
-help - Get Information about the Bot
-id - Get your Telegram User  ID
-contact - Get the contacts details of the owner of the Bot
+start - Iniciar el robot
+sa - Cargue el archivo zip de la cuenta de servicio para usar el bot
+folders - Seleccione las unidades compartidas donde desea guardar sus archivos y carpetas
+help - Obtener información sobre el bot
+id - Obtenga su identificación de usuario de Telegram
+contact - Obtenga los detalles de contacto del propietario del Bot
 ```
 <b>Admin-only Commands:</b>
 ```
-ban - Ban a Telegram User ID from using the Bot
-unban - Reallow a Telegram User ID from using the Bot that was earlier banned
-vip - Add a Telegram User ID to the VIP Access List
-unvip - Remove a Telegram User ID to the VIP Access List
+ban - Prohibir que un ID de usuario de Telegram use el bot
+unban - Vuelva a permitir que una ID de usuario de Telegram use el bot que se prohibió anteriormente
+vip - Agregue una identificación de usuario de Telegram a la lista de acceso VIP
+unvip - Eliminar una identificación de usuario de Telegram a la lista de acceso VIP
 ```
-<b>⛔NOTICE: Adding this commands are optional, changing this commands from BotFather don't change it for Bot.</b>
+<b>⛔NOTICE: Agregar estos comandos es opcional, cambiar estos comandos de BotFather no lo cambie por Bot.</b>
